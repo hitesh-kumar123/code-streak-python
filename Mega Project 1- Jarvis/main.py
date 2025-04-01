@@ -4,8 +4,6 @@ import pyttsx3
 import musicLibrary
 import requests
 import google.generativeai as genai
-# import time
-# from openai import OpenAI
 from gtts import gTTS
 import pygame
 import os
